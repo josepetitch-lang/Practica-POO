@@ -1,0 +1,17 @@
+7- Sistema de Películas Favoritas
+Entidades:
+Pelicula
+Usuario
+Flujo:
+Usuario → agrega películas a favoritos → consulta su lista
+Métodos clave:
+agregar_favorita()
+listar_favoritas()
+eliminar_favorita()
+Validación sugerida:
+No permitir repetir la misma película en favoritos
+Validar ID único de película
+
+(reto tomados)
+
+# Dato extra: el 03d es como si te dijera 003, si fuese 02d seria 02 (esto me lo busque en google)
