@@ -1,19 +1,19 @@
-Study Tracker
+# Práctica de Programación Orientada a Objetos (POO) 🚀
 
-Un proyecto de Pomodoro en Python creado para gestionar el tiempo más efectivamente, evitando distracciones en el proceso
+Este repositorio contiene mis proyectos personales (que por imbécil perdí mi carpeta y tuve que re hacer [no, no los habia hecho primero en vsc] )
+## 📂 Contenido del Proyecto
 
-¿Cómo es su Metolodogía?: Simple, solo sigue la técnica Pomodoro (busquela en google si no no entiende que es >:v)
-* Elegir una tarea de la lista
-* Iniciar una sesión/temporizador (25 min)
-* Marcar la tarea
+* **Proyecto 1:** Gestión de inventario básico 
+* **Proyecto 2:** Sistema de gestión de usuarios y películas favoritas.
+* **Conceptos aplicados:** Clases yy Objetos
 
-# Tecnologías:
-Python: Lenguaje base
-JSON: Base de datos 
+## 🛠️ Tecnologías utilizadas
 
-# Funciones: 
-* Temporizador: Sesiones deseadas por el usuario para que este establezca el tiempo que necesite
-* Guardado: Usa archivos .json para asegurar que todo se guarde localmente.
-* Gestión: Agrega y revisa actividades de estudiopendientes .
-* Interfaz: Ejecución rápida por consola.
+* **Lenguaje:** Python (no si C++ oiste)
+* **Editor:** Visual Studio Code (no bro, use Dev C++)
+* **Control de Versiones:** Git & GitHub (los odio)
 
+## 📝 Notas de aprendizaje
+Actualmente cursando el **3er semestre de Ingeniería de Sistemas** (oh wow que interesante)
+
+-- GUAYABAPRODUCTIONS (y eso q)
