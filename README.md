@@ -1,19 +1,21 @@
-# Práctica de Programación Orientada a Objetos (POO) 🚀
+# Práctica de Programación Orientada a Objetos (POO) 
 
-Este repositorio contiene mis proyectos personales (que por imbécil perdí mi carpeta y tuve que re hacer [no, no los habia hecho primero en vsc] )
+Este repositorio contiene mis proyectos personales (que por imbécil perdí mi carpeta y tuve que re hacer) (no, no los habia hecho primero en vsc) 
+
 ## Contenido del Proyecto
 
-* **Proyecto 1:** Gestión de inventario básico 
-* **Proyecto 2:** Sistema de gestión de usuarios y películas favoritas.
-* **Conceptos aplicados:** Clases yy Objetos
+**Proyecto 1:** Gestión de inventario básico 
+**Proyecto 2:** Sistema de gestión de usuarios y películas favoritas.
 
-## Tecnologías utilizadas
+## ¿Que quiero establecer con ambas?:
 
-* **Lenguaje:** Python (no si C++ oiste)
-* **Editor:** Visual Studio Code (no bro, use Dev C++)
-* **Control de Versiones:** Git & GitHub (los odio)
+**Proyecto 1**: Un sistema (mi pueblito god) de inventario básico:
+   *Ejemplo gamer:* Es como si guardaras tus cosas en un cofre de Minecraft o en el maletín de Mario y Luigi
+**Proyecto 2**: Cinex de Temu 
+   *Ejemplo de llanto*: ¿Cuantos de nosotros en Disney Channel pasaban diferentes peliculas y esperabas a que pasara tu favorita?
+   Para eso está este programa, que no solamente te las va a guardar, les dará una identidad :D (lo borro mañana)
 
-## Notas de aprendizaje
-Actualmente cursando el **3er semestre de Ingeniería de Sistemas** (oh wow que interesante)
+## SIN INTENCIONES DE OFENDER, ES HUMOR (no da risa)
+   
 
--- GUAYABAPRODUCTIONS (y eso q)
+
