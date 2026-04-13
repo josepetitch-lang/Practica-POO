@@ -11,6 +11,7 @@ Este repositorio contiene mis proyectos personales (que por imbécil perdí mi c
 
 **Proyecto 1**: Un sistema (mi pueblito god) de inventario básico:
    *Ejemplo gamer:* Es como si guardaras tus cosas en un cofre de Minecraft o en el maletín de Mario y Luigi
+   
 **Proyecto 2**: Cinex de Temu 
    *Ejemplo de llanto*: ¿Cuantos de nosotros en Disney Channel pasaban diferentes peliculas y esperabas a que pasara tu favorita?
    Para eso está este programa, que no solamente te las va a guardar, podrás buscarla cuando y donde quieras a través de su ID (gracias a una lista de peliculas)
